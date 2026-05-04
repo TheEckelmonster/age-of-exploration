@@ -6,8 +6,8 @@
 	"author": "TheEckelmonster",
 	"description": "Personal modpack/overhaul. Balance not fully known/guaranteed. Intended primarily for personal use.",
 	"dependencies": [
-		"base >= 2.0.72",
-        "space-age >= 2.0.72",
+		"base >= 2.0.76",
+        "space-age >= 2.0.76",
 
         "all-seeing-satellite >= 0.7.2",
         "alloy-smelting >= 0.6.0",
@@ -22,7 +22,7 @@
         "bztin >= 2.1.15",
         "bztitanium >= 2.0.26",
         "bzzirconium >= 2.1.13",
-        "configurable-nukes >= 0.8.6",
+        "configurable-nukes >= 0.9.10",
         "crushing-industry >= 0.5.3",
         "cupric-asteroids >= 1.5.6",
         "demolisher-revenge >= 0.12.1",
@@ -47,7 +47,7 @@
         "more-enemies >= 0.7.2",
         "more-space >= 1.0.1",
         "multispoil >= 2.1.2",
-        "NAS_Fork >= 0.2.1",
+        "NAS_Fork >= 0.3.0",
         "NightvisionOverhaulSpaceAge >= 0.8.2",
         "nixie-tubes >= 2.0.9",
         "ore-scaling >= 0.11.0",
@@ -75,7 +75,8 @@
         "? aai-programmable-structures >= 0.8.2",
         "? aai-signals >= 0.7.1",
         "? aai-zones >= 0.7.2",
-        "? NAS_Fork_Tweaks >= 0.2.0",
-        "? TaskList >= 0.5.0"
+        "? TaskList >= 0.5.0",
+
+        "(?) polymorphic-ore >= 0.1.0"
 	]
 }
